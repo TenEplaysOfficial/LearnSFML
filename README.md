@@ -28,7 +28,7 @@ Welcome to the **Learn SFML** repository! Here you'll find a collection of tutor
 3. **Explore the Tutorials**: Open the relevant tutorial files to start learning.
 
 ## 📖 Tutorials
-- **[Hide Console]([docs/getting_started.md](https://github.com/TenEplays/LearnSFML/tree/main/Hide%20Console))**: Learn how to set up SFML and create your first project.
+- **[Hide Console]([docs/getting_started.md](https://github.com/TenEplays/LearnSFML/tree/main/Hide%20Console))**: Hide the console window in a Windows application to prevent it from appearing during runtime.
  
 ## 💬 Get In Touch
 - **Open an Issue**: Report problems or request new features.
