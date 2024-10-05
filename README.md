@@ -28,7 +28,9 @@ Welcome to the **Learn SFML** repository! Here you'll find a collection of tutor
 3. **Explore the Tutorials**: Open the relevant tutorial files to start learning.
 
 ## 📖 Tutorials
-- **[Hide Console]([docs/getting_started.md](https://github.com/TenEplays/LearnSFML/tree/main/Hide%20Console))**: Hide the console window in a Windows application to prevent it from appearing during runtime.
+- **[Hide Console](./Hide%20Console/)**: Hide the console window in a Windows application to prevent it from appearing during runtime.
+- **[Disable Maximize Button](./DisableMaximizeButton/)**: A feature or method to disable the maximize button in a windowed application, preventing users from resizing the window to full screen.
+- **[Focus Handling SFML](./FocusHandlingSFML/)**: A technique or utility in SFML to manage window focus events, ensuring the game or application behaves appropriately when gaining or losing focus.
  
 ## 💬 Get In Touch
 - **Open an Issue**: Report problems or request new features.
